@@ -1,0 +1,15 @@
+1. Find Top 3 Affected Age Groups and their Percentage
+2. State Wise Total Confirmed, Total Cured, Total Death Cases. Show the Confirmed in Descending Order 
+3. Date Wise Total Confirmed, Total Cured, Total Death Cases. Show the Confirmed in Descending Order 
+4. State wise Total Hospitals and Total Beds Available. Show Total Beds in Descending Order
+5. Compare State wise Total Hospitals, Beds and Total Confirmed Cases, Cured, Deaths.
+6. Find the State wise Number of Patient who are Now Under Treatment. Show Less Effected States First.
+7. Find Total Positive Cases (in Descending Order), Total Pull Tests, Total Negative Tests, and Positive Cases Percentage
+8. Gender and Age (after 40) Wise Effected People. Maximum Effected People at First
+9. Number of Effected Persons who Nationality is not Indian
+10. Group the Data Using Current Status and Show the Number of People
+11. List the Number of Patients who have Recovered. Show Their Id, States, City, Current Status and Max Days to Recover
+12. Find State wise Positive Cases and Population Ratio
+13. Find Population wise Hospital Bed Ratio for Rural and Urban Area
+14. Find State Wise Total Sample Tested, Total Positive, Total Negative, and Missing Record Status
+15. Find Date Wise Total Sample Tested, Total Positive, Total Negative, and Missing Record Status
